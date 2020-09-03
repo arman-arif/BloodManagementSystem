@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1599080709 source:c:\users\arman\desktop\cpp project\bloodbankmanagementsystem\mainmenu.cpp
+	"MainMenu.h"
+
+1599078858 c:\users\arman\desktop\cpp project\bloodbankmanagementsystem\mainmenu.h
+	<iostream>
+	<cstdlib>
+	"AddDonor.h"
+	"RequestBlood.h"
+
+1599080369 source:c:\users\arman\desktop\cpp project\bloodbankmanagementsystem\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"MainMenu.h"
+	"AddDonor.h"
+
+1599080890 c:\users\arman\desktop\cpp project\bloodbankmanagementsystem\adddonor.h
+	<iostream>
+	<cstdlib>
+
+1599081117 source:c:\users\arman\desktop\cpp project\bloodbankmanagementsystem\adddonor.cpp
+	"AddDonor.h"
+
+1599078290 source:c:\users\arman\desktop\cpp project\bloodbankmanagementsystem\requestblood.cpp
+	"RequestBlood.h"
+
+1599078348 c:\users\arman\desktop\cpp project\bloodbankmanagementsystem\requestblood.h
+	<iostream>
+	<cstdlib>
+
